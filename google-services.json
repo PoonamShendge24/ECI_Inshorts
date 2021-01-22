@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "948498278341",
+    "firebase_url": "https://inshortsdemo.firebaseio.com",
+    "project_id": "inshortsdemo",
+    "storage_bucket": "inshortsdemo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948498278341:android:abffcc743a68a9d2420dac",
+        "android_client_info": {
+          "package_name": "com.blackcobrastudios.inshortsdemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "948498278341-cld7n5rljdan5t78k98uc4tmf845lmdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpUXn9YIhr6ht0NpNv__b7h7gEuTKyj5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "948498278341-cld7n5rljdan5t78k98uc4tmf845lmdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

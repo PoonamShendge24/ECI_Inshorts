@@ -1,0 +1,47 @@
+{
+  "name": "InshortsCloneDemo",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "test": "jest",
+    "lint": "eslint ."
+  },
+  "dependencies": {
+    "@react-native-community/google-signin": "^5.0.0",
+    "@react-native-community/viewpager": "^2.0.1",
+    "axios": "^0.21.1",
+    "firebase": "^7.23.0",
+    "moment": "^2.24.0",
+    "paytmchecksum": "^1.5.0",
+    "react": "16.8.6",
+    "react-native": "^0.63.2",
+    "react-native-config": "^1.4.1",
+    "react-native-fast-image": "^7.0.2",
+    "react-native-gesture-handler": "^1.4.1",
+    "react-native-google-play-game-services": "^1.0.0",
+    "react-native-linear-gradient": "^2.5.6",
+    "react-native-snap-carousel": "^3.8.0",
+    "react-native-status-bar-height": "^2.4.0",
+    "react-native-vector-icons": "^6.6.0",
+    "react-native-webview": "^7.0.5",
+    "react-navigation": "^4.0.5",
+    "react-navigation-stack": "^1.7.3",
+    "react-redux": "^7.1.1",
+    "redux": "^4.0.4",
+    "redux-thunk": "^2.3.0"
+  },
+  "devDependencies": {
+    "@babel/core": "7.6.0",
+    "@babel/runtime": "7.6.0",
+    "babel-jest": "24.9.0",
+    "eslint": "6.4.0",
+    "jest": "24.9.0",
+    "metro-react-native-babel-preset": "0.54.1",
+    "react-test-renderer": "16.8.6"
+  },
+  "jest": {
+    "preset": "react-native"
+  }
+}

@@ -1,0 +1,58 @@
+{
+
+      "News1" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/fruits.png",
+        "label" : "News 1",
+        "description" : "Description",
+        "post_url" : "https://www.facebook.com/shopify/",
+        "priority" : 0,
+        "tag" : "Like FB Page",
+        "watched" : 1
+      },
+      "News2" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+        "label" : "News 2",
+        "description" : "Description",
+        "post_url" : "https://www.rummycircle.com",
+        "priority" : 1,
+        "tag" : "Go To Website",
+        "watched" : 0
+      },
+      "News3" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/cat.png",
+        "label" : "News 3",
+        "description" : "Description",
+        "post_url" : "https://play.google.com/store/apps/details?id=com.bibliocommons.mpl",
+        "priority" : 2,
+        "tag" : "Download App",
+        "watched" : 0
+      },
+      "News4" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/boat.png",
+        "label" : "News 4",
+        "description" : "Description",
+        "post_url" : "https://childrens-academy.in",
+        "priority" : 3,
+        "tag" : "Go To Website",
+        "watched" : 1
+      },
+      "News5" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/watch.png",
+        "label" : "News 5",
+        "description" : "Description",
+        "post_url" : "https://childrens-academy.in",
+        "priority" : 3,
+        "tag" : "Go To Website",
+        "watched" : 1
+      },
+      "News6" : {
+        "image_url" : "https://homepages.cae.wisc.edu/~ece533/images/frymire.png",
+        "label" : "News 6",
+        "description" : "Description",
+        "post_url" : "https://childrens-academy.in",
+        "priority" : 3,
+        "tag" : "Go To Website",
+        "watched" : 1
+      }
+
+}
